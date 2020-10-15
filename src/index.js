@@ -14,4 +14,6 @@ kulavardhan
  //unregister() to register() below. Note this comes with some pitfalls.
  //Learn more about service workers: https://bit.ly/CRA-PWA
 serviceWorker.unregister();
+var a = 2;
+var c = 3;
 
