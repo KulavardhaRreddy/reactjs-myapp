@@ -74,3 +74,5 @@ const fetchUsers = () => {
 const store = createStore(reducer,applyMiddlewre(thunkMiddleware))
 store.subscribe(() => { console.log(store.getState())})
 srore.dispatch(fetchUsers)
+
+var a = 4;
